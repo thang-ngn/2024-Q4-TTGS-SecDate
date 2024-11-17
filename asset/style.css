@@ -248,6 +248,7 @@ section.attends p {
     /* color: #B5BFD2; */
     color: #e3e5ea;
     margin-bottom: 50px;
+    font-size: 1.2em;
 }
 section.content-small {
     height: auto !important;
